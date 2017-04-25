@@ -1,6 +1,6 @@
 # npmdoc-express-flash
 
-#### api documentation for  [express-flash (v0.0.2)](https://github.com/RGBboy/express-flash)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-flash.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-flash) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-flash.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-flash)
+#### basic api documentation for  [express-flash (v0.0.2)](https://github.com/RGBboy/express-flash)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-flash.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-flash) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-flash.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-flash)
 
 #### Flash Messages for your Express Application
 
